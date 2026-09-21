@@ -143,10 +143,6 @@ Kolejność operacji wynika z faktu, że kontrakt DEX nie posiada na starcie ża
 
 Kontrakty są dostępne w eksploratorze bloków pod adresem https://sepolia.etherscan.io.
 
-Poniżej widok wdrożonych kontraktów w eksploratorze:
-
-![Wdrożone kontrakty w Etherscan](docs/screenshots/capture.png)
-
 ## Dokumentacja zrzutów ekranu
 
 Katalog `docs/screenshots/` zawiera zrzuty ekranu dokumentujące działanie projektu.
@@ -212,3 +208,8 @@ Projekt realizuje wymagania na ocenę 4.0:
 - Aplikacja kliencka w Pythonie z wykorzystaniem web3.py.
 
 Do uruchomienia projektu wymagane są: klucz API Infura, konto Ethereum z kluczem prywatnym oraz niewielka ilość Sepolia ETH na opłacenie gazu.
+
+## P.S
+
+Czego to się nie robi dla projektu
+![Było odpalone przez dosłowne 2 godziny, żeby móc przesłać kontrakt](docs/screenshots/capture.png)
