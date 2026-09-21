@@ -200,8 +200,6 @@ Mechanizm `approve` + `transferFrom` jest standardem w ERC-20 i wynika z faktu, 
 
 ## Podsumowanie
 
-Projekt realizuje wymagania na ocenę 4.0:
-
 - Implementacja tokena w standardzie ERC-20.
 - Implementacja kontraktu pośredniczącego z funkcjami `buy`, `sell` i obsługą `approve`/`transferFrom`.
 - Wdrożenie kontraktów na testnecie Sepolia z wykorzystaniem Infura jako providera RPC.
